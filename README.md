@@ -28,7 +28,7 @@ No momento, estou aprendendo **Angular, Node.JS, JUnit**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## ⚡ GitHub Stats
+## ⚡ Estatísticas do GitHub
 
 ![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturrpereira&show_icons=true&include_all_commits=true&theme=radical&locale=PT-BR)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturrpereira&hide=TeX&layout=compact&theme=radical&locale=pt-br)
